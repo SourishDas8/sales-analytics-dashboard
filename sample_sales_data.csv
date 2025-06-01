@@ -1,0 +1,201 @@
+Order ID,Region,State,Category,Sales,Profit,Discount,Ship Mode
+ORD-1000,Central,California,Furniture,529.99,-29.2,0.23,Same Day
+ORD-1001,South,Florida,Furniture,835.13,-64.52,0.24,Standard Class
+ORD-1002,East,Illinois,Technology,354.05,-51.75,0.17,Same Day
+ORD-1003,Central,Florida,Office Supplies,900.75,84.31,0.29,Standard Class
+ORD-1004,Central,Illinois,Technology,419.74,-17.47,0.37,First Class
+ORD-1005,South,Illinois,Furniture,60.3,45.71,0.37,First Class
+ORD-1006,East,New York,Office Supplies,910.11,101.37,0.18,Standard Class
+ORD-1007,East,Illinois,Technology,136.72,176.16,0.05,First Class
+ORD-1008,Central,Florida,Office Supplies,353.35,-84.28,0.39,Second Class
+ORD-1009,West,Illinois,Technology,952.56,219.76,0.34,Same Day
+ORD-1010,Central,New York,Office Supplies,953.08,151.16,0.05,Second Class
+ORD-1011,Central,New York,Furniture,594.77,-67.3,0.37,Same Day
+ORD-1012,Central,Florida,Furniture,650.25,249.43,0.35,First Class
+ORD-1013,Central,Texas,Office Supplies,476.02,268.35,0.21,Second Class
+ORD-1014,South,Texas,Technology,328.55,-75.57,0.24,First Class
+ORD-1015,East,Illinois,Furniture,362.23,10.75,0.16,Same Day
+ORD-1016,South,California,Furniture,688.89,222.48,0.02,Standard Class
+ORD-1017,South,Illinois,Furniture,764.76,199.3,0.13,Standard Class
+ORD-1018,South,Florida,Office Supplies,802.0,-26.19,0.32,Second Class
+ORD-1019,Central,Florida,Office Supplies,800.14,-16.26,0.0,First Class
+ORD-1020,West,Florida,Technology,136.65,48.19,0.13,First Class
+ORD-1021,East,Florida,Technology,519.7,93.81,0.16,Second Class
+ORD-1022,West,Florida,Technology,104.68,147.3,0.21,Standard Class
+ORD-1023,South,New York,Office Supplies,572.05,47.57,0.37,Same Day
+ORD-1024,South,Texas,Office Supplies,469.45,85.01,0.14,Second Class
+ORD-1025,West,Florida,Technology,893.32,198.99,0.14,Same Day
+ORD-1026,West,California,Technology,383.37,-85.33,0.3,Standard Class
+ORD-1027,West,California,Office Supplies,161.21,0.97,0.18,First Class
+ORD-1028,South,California,Technology,185.84,185.34,0.09,Standard Class
+ORD-1029,South,California,Furniture,773.44,258.08,0.18,Second Class
+ORD-1030,East,New York,Office Supplies,637.31,104.67,0.06,First Class
+ORD-1031,East,California,Technology,146.07,112.85,0.07,Second Class
+ORD-1032,South,Florida,Office Supplies,129.9,-57.13,0.2,Second Class
+ORD-1033,West,Illinois,Furniture,715.92,78.96,0.17,Standard Class
+ORD-1034,West,California,Office Supplies,119.12,113.05,0.37,Second Class
+ORD-1035,East,New York,Office Supplies,830.77,-3.01,0.14,Standard Class
+ORD-1036,South,New York,Office Supplies,720.93,7.7,0.23,First Class
+ORD-1037,East,California,Office Supplies,127.28,50.91,0.25,Standard Class
+ORD-1038,East,Illinois,Furniture,130.6,-91.97,0.01,First Class
+ORD-1039,Central,California,Office Supplies,987.31,28.83,0.27,Standard Class
+ORD-1040,Central,New York,Office Supplies,405.56,-15.42,0.07,Same Day
+ORD-1041,Central,Texas,Technology,402.11,31.0,0.38,Same Day
+ORD-1042,West,Florida,Office Supplies,822.16,-52.1,0.06,Second Class
+ORD-1043,South,New York,Technology,949.89,256.21,0.17,Standard Class
+ORD-1044,South,California,Furniture,986.7,137.44,0.03,Standard Class
+ORD-1045,South,Florida,Furniture,765.71,171.64,0.4,First Class
+ORD-1046,South,California,Furniture,407.45,215.67,0.2,Second Class
+ORD-1047,Central,California,Furniture,129.33,99.38,0.24,Standard Class
+ORD-1048,West,Texas,Technology,788.29,-65.23,0.03,Second Class
+ORD-1049,West,Florida,Office Supplies,580.48,114.84,0.3,Same Day
+ORD-1050,Central,Florida,Furniture,453.01,134.74,0.08,Standard Class
+ORD-1051,West,Texas,Office Supplies,911.04,198.18,0.36,Standard Class
+ORD-1052,Central,New York,Technology,155.64,72.66,0.08,Second Class
+ORD-1053,South,California,Technology,517.99,-48.97,0.08,Standard Class
+ORD-1054,Central,Illinois,Technology,60.79,13.51,0.01,Second Class
+ORD-1055,South,California,Furniture,495.23,45.23,0.19,Standard Class
+ORD-1056,South,California,Office Supplies,103.49,158.37,0.23,First Class
+ORD-1057,East,New York,Office Supplies,162.88,128.31,0.03,Second Class
+ORD-1058,Central,California,Office Supplies,161.65,42.44,0.31,Standard Class
+ORD-1059,East,Texas,Technology,666.75,294.61,0.18,Same Day
+ORD-1060,Central,Texas,Furniture,758.74,142.31,0.21,Standard Class
+ORD-1061,Central,Florida,Technology,604.2,-5.11,0.18,Same Day
+ORD-1062,East,Illinois,Technology,964.06,-59.29,0.16,Same Day
+ORD-1063,East,California,Office Supplies,406.13,-38.86,0.22,First Class
+ORD-1064,Central,California,Technology,321.43,-1.62,0.06,Second Class
+ORD-1065,West,New York,Office Supplies,875.17,-35.73,0.07,Standard Class
+ORD-1066,South,Texas,Furniture,262.42,-25.37,0.34,First Class
+ORD-1067,East,Illinois,Office Supplies,965.06,14.04,0.38,Standard Class
+ORD-1068,South,Florida,Furniture,61.55,-30.65,0.15,Same Day
+ORD-1069,West,Texas,Office Supplies,971.38,258.71,0.11,Second Class
+ORD-1070,West,Florida,Technology,91.0,-67.91,0.26,Standard Class
+ORD-1071,West,New York,Technology,896.59,109.8,0.16,Standard Class
+ORD-1072,East,New York,Furniture,551.32,64.16,0.01,Same Day
+ORD-1073,West,California,Furniture,993.32,292.95,0.06,Standard Class
+ORD-1074,East,Illinois,Furniture,120.11,-55.18,0.29,Standard Class
+ORD-1075,West,Florida,Office Supplies,576.16,59.14,0.26,Same Day
+ORD-1076,South,Texas,Office Supplies,970.84,287.79,0.01,First Class
+ORD-1077,South,New York,Furniture,546.94,246.2,0.09,Same Day
+ORD-1078,Central,California,Technology,647.93,226.83,0.09,First Class
+ORD-1079,South,California,Office Supplies,710.96,3.16,0.27,Second Class
+ORD-1080,Central,Florida,Office Supplies,481.81,-31.64,0.01,First Class
+ORD-1081,South,New York,Office Supplies,646.18,167.46,0.04,First Class
+ORD-1082,East,Illinois,Furniture,605.1,271.75,0.32,Second Class
+ORD-1083,South,New York,Furniture,906.1,122.71,0.07,First Class
+ORD-1084,Central,Florida,Furniture,93.17,128.65,0.26,Same Day
+ORD-1085,Central,Florida,Furniture,316.92,11.99,0.1,First Class
+ORD-1086,West,New York,Furniture,952.89,207.8,0.04,Second Class
+ORD-1087,East,Florida,Technology,895.75,-25.18,0.1,Same Day
+ORD-1088,South,New York,Technology,482.87,29.47,0.29,Second Class
+ORD-1089,West,Texas,Furniture,639.13,70.17,0.34,Second Class
+ORD-1090,South,New York,Office Supplies,313.51,103.04,0.33,Standard Class
+ORD-1091,South,New York,Furniture,228.72,-3.04,0.16,Standard Class
+ORD-1092,West,Florida,Technology,490.51,-54.07,0.27,Second Class
+ORD-1093,West,Florida,Technology,385.68,144.25,0.08,Second Class
+ORD-1094,West,California,Office Supplies,604.47,15.45,0.12,Second Class
+ORD-1095,West,California,Technology,123.85,132.5,0.36,Standard Class
+ORD-1096,West,Texas,Furniture,975.68,-38.25,0.01,Standard Class
+ORD-1097,South,California,Office Supplies,986.9,92.46,0.03,First Class
+ORD-1098,West,New York,Furniture,713.25,113.04,0.08,First Class
+ORD-1099,East,Florida,Furniture,559.29,-79.27,0.01,Second Class
+ORD-1100,Central,California,Office Supplies,344.05,34.64,0.07,Same Day
+ORD-1101,West,California,Furniture,823.11,-46.23,0.23,Same Day
+ORD-1102,West,Texas,Technology,700.49,-74.65,0.17,Standard Class
+ORD-1103,South,Texas,Furniture,204.49,295.98,0.36,Standard Class
+ORD-1104,West,New York,Office Supplies,915.38,28.94,0.33,Standard Class
+ORD-1105,West,Florida,Office Supplies,831.41,223.95,0.14,Second Class
+ORD-1106,West,Texas,Office Supplies,952.31,1.86,0.1,Same Day
+ORD-1107,South,California,Furniture,739.43,172.6,0.15,First Class
+ORD-1108,West,Florida,Office Supplies,632.74,204.09,0.24,Second Class
+ORD-1109,Central,Florida,Office Supplies,447.33,138.26,0.11,First Class
+ORD-1110,South,California,Furniture,936.09,88.63,0.25,First Class
+ORD-1111,Central,Texas,Technology,872.76,64.74,0.16,Second Class
+ORD-1112,South,California,Furniture,92.96,39.55,0.22,First Class
+ORD-1113,West,Florida,Office Supplies,75.05,271.81,0.17,Same Day
+ORD-1114,Central,Illinois,Office Supplies,407.64,232.25,0.12,First Class
+ORD-1115,South,Illinois,Furniture,820.03,286.01,0.38,Same Day
+ORD-1116,East,New York,Technology,987.91,-50.28,0.31,Same Day
+ORD-1117,West,California,Office Supplies,192.9,192.35,0.06,Same Day
+ORD-1118,South,California,Office Supplies,614.42,275.34,0.35,Standard Class
+ORD-1119,East,New York,Office Supplies,411.85,-27.51,0.19,First Class
+ORD-1120,South,New York,Furniture,971.42,-73.4,0.36,Second Class
+ORD-1121,East,New York,Office Supplies,850.01,196.45,0.32,Second Class
+ORD-1122,West,Florida,Technology,846.41,129.79,0.17,First Class
+ORD-1123,Central,California,Office Supplies,495.26,236.73,0.01,Standard Class
+ORD-1124,East,Florida,Office Supplies,444.08,-44.09,0.11,Standard Class
+ORD-1125,South,New York,Technology,309.74,218.11,0.22,Same Day
+ORD-1126,West,California,Office Supplies,103.56,-19.35,0.25,First Class
+ORD-1127,East,Florida,Furniture,871.49,-34.54,0.1,First Class
+ORD-1128,South,Florida,Furniture,822.26,-34.29,0.06,Second Class
+ORD-1129,South,New York,Furniture,999.73,225.83,0.33,First Class
+ORD-1130,South,California,Technology,996.8,166.08,0.39,Standard Class
+ORD-1131,East,New York,Office Supplies,577.66,109.23,0.21,First Class
+ORD-1132,East,California,Furniture,780.54,43.53,0.07,Second Class
+ORD-1133,East,Illinois,Technology,947.53,250.88,0.11,Same Day
+ORD-1134,Central,Texas,Office Supplies,857.17,56.98,0.01,Second Class
+ORD-1135,East,Texas,Technology,284.98,226.64,0.37,Second Class
+ORD-1136,East,Texas,Furniture,478.02,75.65,0.05,Same Day
+ORD-1137,East,New York,Furniture,172.7,50.78,0.23,Second Class
+ORD-1138,Central,Illinois,Furniture,956.35,85.07,0.11,Second Class
+ORD-1139,East,California,Technology,625.87,20.55,0.22,First Class
+ORD-1140,South,Florida,Technology,267.21,199.04,0.26,First Class
+ORD-1141,East,California,Furniture,688.12,101.09,0.33,Same Day
+ORD-1142,South,Florida,Technology,637.22,-7.11,0.08,First Class
+ORD-1143,South,California,Furniture,390.25,259.83,0.0,First Class
+ORD-1144,South,Illinois,Furniture,157.88,53.56,0.05,Second Class
+ORD-1145,Central,Florida,Office Supplies,687.99,117.42,0.36,Standard Class
+ORD-1146,Central,New York,Technology,544.29,262.59,0.35,First Class
+ORD-1147,Central,California,Furniture,783.7,149.7,0.24,Standard Class
+ORD-1148,East,California,Furniture,544.16,-53.24,0.24,First Class
+ORD-1149,South,Florida,Technology,859.57,275.93,0.27,First Class
+ORD-1150,Central,New York,Office Supplies,574.31,151.08,0.07,Same Day
+ORD-1151,Central,New York,Office Supplies,582.89,33.96,0.37,Same Day
+ORD-1152,East,Illinois,Furniture,882.82,-44.29,0.17,Same Day
+ORD-1153,Central,New York,Technology,433.31,217.61,0.15,Standard Class
+ORD-1154,East,New York,Office Supplies,177.31,148.03,0.21,Second Class
+ORD-1155,West,New York,Technology,77.34,113.38,0.02,First Class
+ORD-1156,Central,Texas,Technology,767.38,257.56,0.07,First Class
+ORD-1157,West,Illinois,Furniture,639.29,215.44,0.3,First Class
+ORD-1158,East,California,Office Supplies,718.88,-39.33,0.03,Standard Class
+ORD-1159,South,Florida,Furniture,252.32,24.69,0.24,Same Day
+ORD-1160,Central,California,Office Supplies,179.55,-0.6,0.1,Second Class
+ORD-1161,East,Illinois,Office Supplies,63.82,197.58,0.16,Standard Class
+ORD-1162,South,Florida,Office Supplies,383.06,-86.59,0.12,Same Day
+ORD-1163,South,Illinois,Office Supplies,610.42,127.96,0.14,Standard Class
+ORD-1164,West,New York,Office Supplies,422.63,204.98,0.29,Second Class
+ORD-1165,East,Florida,Technology,465.6,250.71,0.12,Same Day
+ORD-1166,South,New York,Furniture,908.95,36.83,0.23,Standard Class
+ORD-1167,Central,California,Technology,380.84,228.5,0.19,Second Class
+ORD-1168,Central,California,Office Supplies,538.29,-55.75,0.27,First Class
+ORD-1169,West,Florida,Furniture,794.47,238.58,0.37,Second Class
+ORD-1170,South,Florida,Office Supplies,426.72,-49.0,0.29,First Class
+ORD-1171,East,Illinois,Furniture,640.98,58.91,0.09,Standard Class
+ORD-1172,Central,Illinois,Technology,869.25,218.92,0.01,Same Day
+ORD-1173,South,New York,Furniture,952.04,-40.03,0.1,Same Day
+ORD-1174,South,Florida,Furniture,189.72,-8.3,0.24,Standard Class
+ORD-1175,West,California,Furniture,930.26,188.9,0.02,Same Day
+ORD-1176,Central,Illinois,Furniture,517.51,188.01,0.2,Same Day
+ORD-1177,Central,Illinois,Furniture,295.33,156.46,0.24,First Class
+ORD-1178,East,California,Office Supplies,486.18,177.58,0.13,Standard Class
+ORD-1179,Central,Illinois,Furniture,981.03,117.09,0.31,Second Class
+ORD-1180,East,New York,Furniture,517.99,0.72,0.04,First Class
+ORD-1181,Central,Florida,Technology,362.31,38.28,0.03,Standard Class
+ORD-1182,West,California,Furniture,651.73,-27.36,0.29,First Class
+ORD-1183,Central,Florida,Technology,278.14,263.38,0.2,Second Class
+ORD-1184,East,Illinois,Office Supplies,122.07,133.36,0.28,Second Class
+ORD-1185,East,Illinois,Furniture,172.44,60.34,0.17,Standard Class
+ORD-1186,West,California,Technology,171.64,84.8,0.1,Second Class
+ORD-1187,Central,New York,Technology,194.31,278.91,0.33,First Class
+ORD-1188,Central,Texas,Office Supplies,181.89,-38.66,0.32,Second Class
+ORD-1189,West,California,Furniture,658.83,134.49,0.28,First Class
+ORD-1190,Central,Texas,Furniture,222.79,102.36,0.11,First Class
+ORD-1191,Central,Texas,Technology,378.38,144.58,0.24,Second Class
+ORD-1192,East,New York,Furniture,901.95,-92.76,0.14,Standard Class
+ORD-1193,Central,Texas,Technology,500.26,248.85,0.04,Same Day
+ORD-1194,Central,Texas,Furniture,684.18,272.85,0.37,Second Class
+ORD-1195,West,New York,Technology,213.7,126.05,0.05,First Class
+ORD-1196,West,Texas,Furniture,232.67,178.66,0.38,First Class
+ORD-1197,South,Texas,Office Supplies,88.83,269.0,0.18,Second Class
+ORD-1198,East,Texas,Furniture,210.49,182.9,0.07,Standard Class
+ORD-1199,Central,California,Furniture,314.66,-38.98,0.22,Standard Class
