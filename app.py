@@ -81,4 +81,4 @@ if 'Order Date' in df.columns:
 
 # Footer
 st.markdown("---")
-st.markdown("Developed by **Your Name** | Data Analytics Portfolio Project")
+st.markdown("Developed by **Sourish Das** | Data Analytics Portfolio Project")
